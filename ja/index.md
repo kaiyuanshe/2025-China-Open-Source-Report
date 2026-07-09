@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
@@ -16,36 +15,6 @@ hero:
     - theme: alt
       text: 過去の年次報告書
       link: https://kaiyuanshe.feishu.cn/wiki/wikcnUDeVll6PNzw900yPV71Sxd
----
-
-<script setup>
-import {
-  VPTeamPage,
-  VPTeamPageTitle,
-  VPTeamMembers,
-  VPTeamPageSection
-} from 'vitepress/theme'
-
-const japaneseTranslationMembers = [
-  {
-    avatar: 'https://avatars.githubusercontent.com/u/1667148?v=4',
-    name: '高須正和 / TAKASU Masakazu',
-    title: '日本語版 主翻訳・校閲・保守',
-    links: [
-      { icon: 'github', link: 'https://github.com/takasumasakazu' },
-      { icon: 'link', link: 'https://takasumasakazu.net/' }
-    ],
-  },
-]
-</script>
-
-<VPTeamPage>
-  <VPTeamPageTitle>
-    <template #title>日本語版翻訳チーム</template>
-    <template #lead>
-      2025 中国オープンソース年度報告 日本語版の翻訳・校閲・保守に関わるメンバーです。
-    </template>
-  </VPTeamPageTitle>
 
 features:
   - icon:
@@ -53,7 +22,7 @@ features:
       width: 40
       height: 40
     title: 開源社
-    details: 開源社（英語名 KAIYUANSHE）は2014年に設立された、オープンソースに貢献する個人ボランティアによるコミュニティです。「貢献・コンセンサス・共同統治」の原則に基づき、ベンダーニュートラル、公益、非営利の理念を保ちながら、健全で持続可能なオープンソース・エコシステムの共創を目指しています。
+    details: ...
     link: https://kaiyuanshe.cn/
     linkText: 公式サイト
   - icon:
@@ -61,7 +30,7 @@ features:
       width: 40
       height: 40
     title: X-lab 開放実験室
-    details: X-lab 開放実験室は、国内外の大学、スタートアップ、IT企業などの専門家・研究者・エンジニアが参加する、オープンソース研究とイノベーションのための開かれた共同体です。オープンソース戦略、メトリクス、デジタル・エコシステムなどを継続的に研究し、オープンソース・コミュニティの測定、分析、データ活用に取り組んでいます。
+    details: ...
     link: https://github.com/X-lab2017
     linkText: GitHub
 ---
