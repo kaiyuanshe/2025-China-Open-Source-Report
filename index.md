@@ -171,7 +171,7 @@ const translations = [
   {
     avatar: 'https://avatars.githubusercontent.com/u/1667148?v=4',
     name: '高须正和 / TAKASU Masakazu',
-    title: '日文版翻译',
+    title: '日文版翻译・校阅・维护',
     links: [
       { icon: 'github', link: 'https://github.com/takasumasakazu' },
       { icon: 'link', link: 'https://takasumasakazu.net/' }
