@@ -168,7 +168,15 @@ const memorabiliaMembers = [
 
 // 翻译团队
 const translations = [
-
+  {
+    avatar: 'https://avatars.githubusercontent.com/u/1667148?v=4',
+    name: '高须正和 / TAKASU Masakazu',
+    title: '日文版翻译',
+    links: [
+      { icon: 'github', link: 'https://github.com/takasumasakazu' },
+      { icon: 'link', link: 'https://takasumasakazu.net/' }
+    ],
+  },
 ]
 
 // 整体报告汇总/编辑排版
@@ -265,7 +273,7 @@ const infrastructureMembers = [
     </template>
   </VPTeamPageSection>
 
-  <VPTeamPageSection v-if="copyreaders">
+  <VPTeamPageSection v-if="translations">
     <template #title>翻译团队</template>
     <template #members>
       <VPTeamMembers size="small" :members="translations" />

@@ -13,46 +13,41 @@ hero:
     - theme: alt
       text: 過去の年次報告書
       link: https://kaiyuanshe.feishu.cn/wiki/wikcnUDeVll6PNzw900yPV71Sxd
-
-features:
-  - title: 巻頭言
-    details: 2025年版の問題意識と、日本語版に寄せた三言語の序文。
-    link: /ja/preface
-    linkText: 読む
-  - title: オープンソースの主な出来事
-    details: 2025年の中国と世界のオープンソースに関する主要トピック。
-    link: /ja/open-source-milestones
-    linkText: 読む
-  - title: アンケート編
-    details: オープンソース参加者への調査から見える実態と変化。
-    link: /ja/questionnaire
-    linkText: 読む
-  - title: データ編
-    details: OpenRankなどのデータから見るオープンソース・エコシステム。
-    link: /ja/data
-    linkText: 読む
-  - title: 商業化編
-    details: オープンソースの商業化、企業活動、持続可能性をめぐる分析。
-    link: /ja/commercialization
-    linkText: 読む
-  - title: オープンソースAI編
-    details: オープンソースAIと大規模モデルをめぐる中国の動向。
-    link: /ja/ossAI
-    linkText: 読む
-  - title: オープンソースフィジカルAI編
-    details: ロボット、具身知能、Physical AIにおけるオープンソースの展開。
-    link: /ja/embodied-intelligence
-    linkText: 読む
-  - title: Web3.0編
-    details: Web3.0領域における中国語圏開発者とオープンソースの動向。
-    link: /ja/web3
-    linkText: 読む
-  - title: 中国オープンソース関連文書の日本語訳
-    details: 中国オープンソース関連文書を日本語へ翻訳する継続プロジェクト。
-    link: https://github.com/kaiyuanshe/CNOSSTranslationJP
-    linkText: GitHub
-  - title: Nico-Tech Shenzhen / TAKASU Masakazu
-    details: 日本語版の翻訳・レビュー・保守に関わるコミュニティと関連情報。
-    link: https://takasumasakazu.net/
-    linkText: Webサイト
 ---
+
+<script setup>
+import {
+  VPTeamPage,
+  VPTeamPageTitle,
+  VPTeamMembers,
+  VPTeamPageSection
+} from 'vitepress/theme'
+
+const japaneseTranslationMembers = [
+  {
+    avatar: 'https://avatars.githubusercontent.com/u/1667148?v=4',
+    name: '高須正和 / TAKASU Masakazu',
+    title: '日本語版 主翻訳・校閲・保守',
+    links: [
+      { icon: 'github', link: 'https://github.com/takasumasakazu' },
+      { icon: 'link', link: 'https://takasumasakazu.net/' }
+    ],
+  },
+]
+</script>
+
+<VPTeamPage>
+  <VPTeamPageTitle>
+    <template #title>日本語版翻訳チーム</template>
+    <template #lead>
+      2025 中国オープンソース年度報告 日本語版の翻訳・校閲・保守に関わるメンバーです。
+    </template>
+  </VPTeamPageTitle>
+
+  <VPTeamPageSection>
+    <template #title>翻訳・レビュー・保守</template>
+    <template #members>
+      <VPTeamMembers size="small" :members="japaneseTranslationMembers" />
+    </template>
+  </VPTeamPageSection>
+</VPTeamPage>
