@@ -134,6 +134,22 @@ Examples:
 - `大規模モデルのオープンソース・オープン等級標準`: explain as a standard for evaluating how open a large AI model is.
 - `デジタル公共インフラ（DPI）`: explain as shared digital foundations such as digital ID, payment, and data exchange systems.
 
+## Open Source AI chapter rules
+
+- Add a concise explanation at first appearance when an AI architecture term is important to understanding the text. Terms that commonly need this treatment include VLM / vision-language model, bounding boxes and JSON output, million-token context, Dense architecture, Mixture of Experts (MoE), expert modules, auxiliary-loss-free load balancing, MLA / Multi-head Latent Attention, KV Cache, long-context models, prefill, RAG, Lost in the Middle, Early Fusion, external image encoders, Context Engineering, Context Rot, Compaction, Context Pyramid, MCP / Model Context Protocol, GraphRAG, TreeRAG, and Passage Reordering.
+- Keep explanations reader-facing and short; do not turn the report into a tutorial. Do not explain globally familiar terms such as GitHub, Python, Linux, Hugging Face, Transformer, or JSON.
+- Preferred explanation patterns include:
+  - `VLM（視覚言語モデル。画像や動画を言語モデルと組み合わせて理解・処理するモデル）`
+  - `MoE（多数の「エキスパート」と呼ばれる部分モデルのうち、入力ごとに必要な一部だけを使う方式）`
+  - `KV Cache（過去のToken情報を保持し、長文推論でGPUメモリを大量に消費するキャッシュ）`
+  - `Lost in the Middle（長い入力の冒頭と末尾に比べ、中間部分の情報を見落としやすい問題）`
+  - `RAG（Retrieval-Augmented Generation、外部文書を検索して関連情報をモデルに渡す方式）`
+  - `MCP（業務システム、ファイル、API、データベース、開発環境などを必要に応じてモデルへ接続するための共通インターフェース）`
+- When a model outputs bounding boxes, coordinates, attributes, or JSON, explain briefly that it produces structured data for downstream business systems, rather than merely describing an image.
+- When discussing 1M-token or 10M-token context windows, clarify that the advertised window is often a maximum value; longer context increases cost and latency, prefill can be expensive, and hallucination risk can increase. Note where relevant that practical enterprise systems often combine intelligent chunking with advanced RAG instead of placing everything into one huge context.
+- Explain Context Engineering as system design that controls what information enters the model context, in what order and structure, with what freshness, and at what timing. Do not reduce it to better prompt wording.
+- Avoid literal or awkward expressions such as `生態`, `賦能`, `落地`, `高地`, `深水域`, `開源`, `大モデル`, and `力任せのスケーリング`. Prefer `エコシステム`, `支援する` / `実現する`, `実用化` / `現場導入`, `オープンソース`, `大規模モデル`, and `単純なスケーリング` as context requires.
+
 ## Per-chapter editing workflow
 
 - Edit only the chapter requested by the user.
@@ -143,6 +159,12 @@ Examples:
 - Preserve meaning and factual claims.
 - Add glossary entries with `status=needs-review` when important recurring terms are missing.
 - After editing, show `git diff --stat`, summarize changes, list glossary changes, list remaining Simplified Chinese strings, and do not commit automatically unless asked.
+
+## Questionnaire chapter rules
+
+- In questionnaire chapters, show the original Chinese wording with the Japanese translation on first appearance of a question, answer option, survey category, or response choice, using `中国語原文（日本語訳）`.
+- After the first appearance of the same wording, use only the Japanese translation; do not repeat the Chinese unnecessarily.
+- Apply the same rule to questionnaire terminology and actual answer options, for example `单选（単一選択）`, `多选（複数選択）`, `开放题（自由記述）`, `受访者（回答者）`, `有效样本（有効回答）`, and `非常了解（非常によく知っている）`.
 
 ## Commercialization chapter rules
 

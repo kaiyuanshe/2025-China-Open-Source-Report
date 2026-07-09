@@ -1,0 +1,72 @@
+source_name	english_name	ja_display	category	note
+睿尔曼智能	RealMan Robotics / Realman Intelligent Technology (Beijing) Co., Ltd.	睿爾曼智能（RealMan Robotics、中国のロボットアーム・フィジカルAI関連企業）	company	Search hints: RealMan Robotics; Realman Intelligent Technology Beijing; 睿尔曼智能; needs-review for exact Japanese display.
+它石智航	TARS Robotics Co., Ltd.	它石智航（TARS Robotics、中国のフィジカルAI企業）	company	Search hints: TARS Robotics; 它石智航; needs-review if official English name differs.
+纬钛机器人	ViTai Robotics	緯鈦ロボット（ViTai Robotics）	company	Search hints: ViTai Robotics; 纬钛机器人; needs-review.
+国家地方共建人形机器人创新中心	National and Local Co-Built Humanoid Robotics Innovation Center	国家地方共建ヒューマノイドロボットイノベーションセンター	institute	Use Japanese display in body text; keep English name mainly as search support.
+国家地方共建具身智能机器人创新中心	National and Local Co-Built Embodied AI Robotics Innovation Center	国家地方共建フィジカルAIロボットイノベーションセンター	institute	Search hints: 国家地方共建具身智能机器人创新中心; embodied AI robotics innovation center; needs-review for official English name.
+OmniVTA	OmniVTA	OmniVTA（視覚・触覚世界モデルフレームワーク）	model/framework	Search hints: OmniVTA; visuo-tactile world model.
+OmniViTac	OmniViTac	OmniViTac（大規模な視覚・触覚・動作データセット）	dataset	Use for the visuo-tactile-action dataset.
+白虎-VTouch	白虎-VTouch	白虎-VTouch（視覚ベース触覚センサーを用いた視触覚マルチモーダルデータセット）	dataset	Do not translate 白虎 as White Tiger in body text unless the source does so.
+OpenLoong	OpenLoong	OpenLoong（ヒューマノイドロボットのオープンソースコミュニティ）	platform/community	Search hints: OpenLoong humanoid robot open source.
+银河通用	Galaxea AI	銀河通用（Galaxea AI、中国の汎用ロボット企業）	company	Search hints: Galaxea AI; 银河通用; needs-review for exact Japanese display.
+OpenWBT	Open Whole-Body Teleoperation	OpenWBT（Open Whole-Body Teleoperation、全身遠隔操作フレームワーク）	framework	Search hints: OpenWBT; Open Whole-Body Teleoperation.
+R2S2	R2S2	R2S2	framework	Search hints: OpenWBT R2S2; needs-review for expansion.
+宇树科技	Unitree Robotics	宇樹科技（Unitree Robotics、中国のロボット企業）	company	Search hints: Unitree Robotics; 宇树科技.
+原力灵机	Dexmal	Dexmal（原力霊機、中国のフィジカルAI企業）	company	Search hints: Dexmal; 原力灵机.
+Dexbotic	Dexbotic	Dexbotic（VLA開発ツールボックス）	framework	Search hints: Dexbotic; Dexmal VLA toolbox.
+Dexdata	Dexdata	Dexdata（Dexboticの統一データ形式）	framework	Search hints: Dexdata; Dexbotic data format.
+DexboticVLM	DexboticVLM	DexboticVLM（Dexboticの基盤モデル）	model	Search hints: DexboticVLM; Dexmal.
+starVLA	starVLA	starVLA（VLA手法の統一評価・開発フレームワーク）	framework	Search hints: starVLA; Hong Kong University of Science and Technology; VLA.
+香港科技大学	Hong Kong University of Science and Technology	香港科技大学（HKUST）	institute	Search hints: HKUST; Hong Kong University of Science and Technology.
+清华大学交叉信息研究院	Institute for Interdisciplinary Information Sciences, Tsinghua University	清華大学交叉情報研究院（IIIS）	institute	Search hints: IIIS Tsinghua; Institute for Interdisciplinary Information Sciences; needs-review for Japanese display.
+清华 AIR	Tsinghua AIR / Institute for AI Industry Research, Tsinghua University	清華大学 AIR	institute	Search hints: Tsinghua AIR; Institute for AI Industry Research.
+同济子豪兄	Zihao Brother / Tongji Zihao	同済子豪兄	community/person	Search hints: 同济子豪兄; LeRobot Chinese tutorial; needs-review for English rendering.
+LeRobot	LeRobot	LeRobot（Hugging Face主導のロボティクス向けオープンソース基盤）	platform/framework	Search hints: Hugging Face LeRobot.
+ModelScope	魔搭社区 / ModelScope	ModelScope（魔搭社区、中国のAIモデル・データ共有プラットフォーム）	platform/community	Search hints: ModelScope; 魔搭社区.
+CCF 智能机器人专委会	CCF Technical Committee on Intelligent Robotics	CCF智能ロボット専門委員会	organization	Search hints: CCF 智能机器人专委会; needs-review for official English name.
+2025 EAI 十大教学项目	2025 EAI Top Ten Teaching Projects	2025 EAI 十大教学项目	benchmark/list	Search hints: 2025 EAI 十大教学项目; ModelScope EAI white paper; needs-review.
+香港大学	The University of Hong Kong	香港大学（HKU）	institute	Search hints: HKU; The University of Hong Kong.
+Embodied-AI-Guide	Embodied-AI-Guide	Embodied-AI-Guide（フィジカルAI学習ガイド）	community/project	Search hints: Embodied-AI-Guide GitHub.
+上海交通大学 ScaleLab	Shanghai Jiao Tong University ScaleLab	上海交通大学 ScaleLab	institute/lab	Search hints: SJTU ScaleLab; 上海交通大学 ScaleLab; needs-review.
+研究方向入门指南	research direction introductory guide	研究方向入門ガイド	community/project	Search hints: 上海交通大学 ScaleLab 研究方向入门指南; needs-review.
+慧思开物	Huisi Kaiwu	慧思開物	project	Search hints: 慧思开物 XR-1; needs-review for official English name.
+阿里巴巴达摩院	Alibaba DAMO Academy	Alibaba DAMO Academy（阿里巴巴達摩院）	institute	Search hints: Alibaba DAMO Academy; 达摩院.
+乐云具身·SparkEdu	Leyun Embodied SparkEdu / SparkEdu	楽雲具身・SparkEdu	platform/project	Search hints: 乐云具身 SparkEdu; Alibaba DAMO Academy; needs-review for official English name.
+古月居	GuYueHome	古月居（GuYueHome）	community/company	Search hints: GuYueHome; 古月居.
+OriginBot	OriginBot	OriginBot（ROSベースの知能ロボットキット）	robot/hardware	Search hints: OriginBot; GuYueHome.
+杭州智谷未来	Hangzhou Zhigu Future	杭州智谷未来	company/education	Search hints: 杭州智谷未来 ROS; needs-review for official English name.
+Unitree RL Training	Unitree RL Training	Unitree RL Training（Unitreeの強化学習実習教材）	education/project	Search hints: Unitree RL Training.
+四足运控与具身智能开发教程	Quadruped motion control and embodied AI development tutorial	四足運動制御とフィジカルAI開発チュートリアル	education/project	Search hints: 云深处 四足运控 具身智能开发教程; needs-review.
+具身智能强化营	Embodied AI bootcamp / training camp	フィジカルAI強化キャンプ	education/project	Search hints: 清华 AIR 具身智能强化营; needs-review.
+机器人与具身智能科普教程系列	Robotics and embodied AI popular science tutorial series	ロボットとフィジカルAIの普及解説チュートリアルシリーズ	education/project	Search hints: 同济子豪兄 机器人与具身智能科普教程系列; needs-review.
+SO-100	SO-100	SO-100	robot/hardware	Search hints: SO-100 LeRobot; low-cost robot arm.
+SO-101	SO-101	SO-101	robot/hardware	Search hints: SO-101 LeRobot; low-cost robot arm.
+unitree_lerobot	unitree_lerobot	unitree_lerobot（Unitreeロボット向けLeRobot適応プロジェクト）	framework	Search hints: unitree_lerobot; Unitree LeRobot.
+RLinf	RLinf	RLinf（フィジカルAI向け大規模強化学習訓練システム）	framework	Search hints: RLinf; embodied RL training system.
+北京中关村学院	Beijing Zhongguancun Academy	北京中関村学院	institute	Search hints: Beijing Zhongguancun Academy; 北京中关村学院; needs-review for official English name.
+无问芯穹	Infinigence AI	無問芯穹（Infinigence AI）	company	Search hints: Infinigence AI; 无问芯穹; needs-review for Japanese display.
+M2Flow	M2Flow	M2Flow（RLinfの実行フロー機構）	framework	Search hints: M2Flow RLinf.
+智元机器人	AgiBot	智元ロボット（AgiBot、中国のロボット企業）	company	Search hints: AgiBot; 智元机器人.
+灵渠 OS	Lingqu OS	霊渠OS（Lingqu OS、智元ロボットのロボットOS）	platform/framework	Search hints: Lingqu OS; 灵渠 OS; needs-review for official English spelling.
+AimRT	AimRT	AimRT（ロボット向け通信ミドルウェアフレームワーク）	framework	Search hints: AimRT; AgiBot; Lingqu OS.
+开放原子开源基金会	OpenAtom Foundation	OpenAtom Foundation	organization	Use existing official English name; search hints: OpenAtom Foundation.
+M-Robots OS	M-Robots OS	M-Robots OS（OpenHarmonyベースのロボットOS）	platform/framework	Search hints: M-Robots OS; OpenHarmony robot OS.
+开源鸿蒙	OpenHarmony	OpenHarmony	platform/framework	Search hints: OpenHarmony; 开源鸿蒙.
+中国科学院软件研究所	Institute of Software, Chinese Academy of Sciences	中国科学院ソフトウェア研究所（ISCAS）	institute	Search hints: ISCAS; Institute of Software Chinese Academy of Sciences.
+AGIROS	AGIROS	AGIROS（智能ロボット操作システムのオープンソースコミュニティ）	platform/community	Search hints: AGIROS; intelligent robot operating system; needs-review.
+Dora-RS	Dataflow-Oriented Robotic Architecture	Dora-RS（Dataflow-Oriented Robotic Architecture、低遅延ロボットミドルウェア）	framework	Search hints: Dora-RS; Dataflow-Oriented Robotic Architecture.
+青龙机器人	AzureLoong / Qinglong Robot	青龍ロボット	robot/hardware	Search hints: 青龙机器人; OpenLoong; needs-review for official English name.
+北京人形	Beijing Humanoid Robot Innovation Center	北京ヒューマノイドロボットイノベーションセンター	institute	Search hints: 北京人形; Beijing Humanoid; needs-review for official English name.
+具身天工	Tianggong / Embodied Tiangong	具身天工	framework	Search hints: 具身天工; Tiangong humanoid; needs-review for official English name.
+具身天工 3.0	Tianggong 3.0 / Embodied Tiangong 3.0	具身天工 3.0	framework/robot	Search hints: 具身天工 3.0; 天工开源计划; needs-review for official English name.
+上海萝博派对科技	RoboParty	上海萝博派对科技（RoboParty）	company	Treat 上海萝博派对科技 as a proper noun. Search hints: RoboParty; needs-review for official English name.
+roboto_origin	roboto_origin	roboto_origin（二足歩行ヒューマノイドロボット原型機）	robot/hardware	Search hints: roboto_origin; RoboParty; humanoid robot prototype.
+云深处	DeepRobotics	云深处科技（DeepRobotics）	company	Treat 云深处科技 as a proper noun. Search hints: DeepRobotics; 杭州云深处科技.
+unitree_rl_gym	unitree_rl_gym	unitree_rl_gym（Unitreeの強化学習運動制御環境）	framework	Search hints: unitree_rl_gym; Unitree reinforcement learning gym.
+Project Instinct	Project Instinct	Project Instinct（ヒューマノイドロボット全身制御フレームワーク）	framework	Search hints: Project Instinct humanoid whole-body control.
+InstinctLab	InstinctLab	InstinctLab（Project Instinctの中核ツールキット）	framework	Search hints: InstinctLab Project Instinct.
+Genie Sim 3.0	Genie Sim 3.0	Genie Sim 3.0（LLM駆動のロボットシミュレーションプラットフォーム）	platform	Search hints: Genie Sim 3.0; AgiBot; NVIDIA Isaac Sim.
+地瓜机器人	D-Robotics	地瓜机器人（D-Robotics、中国のロボット開発基盤企業）	company	Treat 地瓜机器人 as a proper noun; do not translate as 地瓜ロボット. Search hints: D-Robotics; 地瓜机器人.
+RDK	Robot Developer Kit	RDK（Robot Developer Kit、D-Roboticsの開発キット）	platform/hardware	Search hints: D-Robotics RDK; Robot Developer Kit.
+RDK X5	RDK X5	RDK X5（D-Roboticsのロボット開発ボード）	hardware	Search hints: RDK X5; D-Robotics.
+火山引擎	Volcengine	Volcengine（火山引擎、ByteDance系クラウドサービス）	platform/company	Search hints: Volcengine; 火山引擎; ByteDance cloud.

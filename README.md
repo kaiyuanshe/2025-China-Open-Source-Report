@@ -27,6 +27,19 @@
   - [Web3.0 篇](./web3.md)
   - [开源大事记](./open-source-milestones.md)
 
+- 日本語版
+  - [日本語版トップ](./ja/)
+  - [巻頭言](./ja/preface.md)
+  - [オープンソースの主な出来事](./ja/open-source-milestones.md)
+  - [アンケート編](./ja/questionnaire.md)
+  - [データ編](./ja/data.md)
+  - [商業化編](./ja/commercialization.md)
+  - [オープンソースAI編](./ja/ossAI.md)
+  - [オープンソースフィジカルAI編](./ja/embodied-intelligence.md)
+  - [Web3.0編](./ja/web3.md)
+  - [中国オープンソース関連文書の日本語訳](https://github.com/kaiyuanshe/CNOSSTranslationJP)
+  - [Nico-Tech Shenzhen / TAKASU Masakazu](https://takasumasakazu.net/)
+
 其中 Web3.0 篇由 OpenBuild 与 Web3insight.ai 承担分析与撰写工作。
 
 

@@ -2,7 +2,8 @@ zh	en	ja	note	status
 开源	open source	オープンソース		confirmed
 开源社	Kaiyuanshe	開源社		confirmed
 中国开源年度报告	China Open Source Annual Report	中国オープンソース年度報告		confirmed
-具身智能	embodied intelligence	エンボディドAI	Chapter title should use エンボディドAI編 in Japanese	confirmed
+具身智能	embodied intelligence	フィジカルAI（Embodied AI）	Use フィジカルAI（Embodied AI） on first appearance, then フィジカルAI. Chapter title may use オープンソースフィジカルAI編.	confirmed
+フィジカルAI	embodied AI	フィジカルAI	Short Japanese form after first appearance.	confirmed
 商业化	commercialization	商業化		confirmed
 大事记	milestones	主な出来事		confirmed
 开源 AI	open source AI	オープンソースAI	AI is kept as AI in Japanese technical prose.	Confirmed
@@ -13,9 +14,15 @@ zh	en	ja	note	status
 智能体	agent	エージェント	Used for AI agents in the preface.	Confirmed
 数据篇	data section	データ編	Chapter title.	Confirmed
 问卷篇	questionnaire section	アンケート編	Chapter title.	Confirmed
+问卷调查	questionnaire survey	アンケート調査	Use for survey activity/context; use アンケート for the instrument or chapter context.	Confirmed
+受访者	respondent	回答者	Use in questionnaire/survey analysis contexts.	Confirmed
+有效样本	valid response	有効回答	Use for valid survey responses, not physical samples.	Confirmed
+单选	single choice	単一選択	Question type in questionnaires.	Confirmed
+多选	multiple choice	複数選択	Question type in questionnaires.	Confirmed
+开放题	open-ended question	自由記述	Question type in questionnaires.	Confirmed
 卷首语	preface	巻頭言	Chapter title.	Confirmed
 开源人工智能篇	open source AI section	オープンソースAI編	Chapter title.	Confirmed
-开源具身智能篇	open source embodied intelligence section	オープンソースエンボディドAI編	Chapter title follows the confirmed 具身智能 glossary entry.	Confirmed
+开源具身智能篇	open source embodied intelligence section	オープンソースフィジカルAI編	Chapter title follows the confirmed 具身智能 glossary entry.	Confirmed
 开源大事记	open source milestones	オープンソースの主な出来事	Chapter title.	Confirmed
 数字主权	digital sovereignty	デジタル主権		Confirmed
 模型平权	model democratization	モデルの平等化	Used for access to advanced model capabilities becoming more equal.	Confirmed
@@ -27,6 +34,7 @@ zh	en	ja	note	status
 开源政策	open source policy	オープンソース政策	Chapter title.	Confirmed
 开源外交	open source diplomacy	オープンソース外交	Chapter title.	Confirmed
 供应链安全	supply chain security	サプライチェーンセキュリティ		Confirmed
+供应链	supply chain	サプライチェーン	Use in manufacturing, robotics, and industrial contexts.	confirmed
 数字公共基础设施	digital public infrastructure	デジタル公共インフラ	Abbreviated as DPI in the source.	Confirmed
 开源鸿蒙	OpenHarmony	OpenHarmony	Keep official project name.	confirmed
 开源欧拉	openEuler	openEuler	Keep official project name.	confirmed
@@ -52,6 +60,9 @@ AI 原生	AI native	AIネイティブ	Use for technologies, products, or archite
 OSPO	Open Source Program Office	OSPO	Explain on first appearance as the organization or function responsible for open source strategy, compliance, and community participation inside a company.	Confirmed
 OSDGs	Open Source Development Goals	OSDGs	Explain as an evaluation framework for open source value including environment, society, and governance.	Confirmed
 OpenRank	OpenRank	OpenRank	Metric for evaluating contributor/project influence from collaboration relationships, not only raw activity counts.	Confirmed
+OpenRank 贡献度	OpenRank Contribution Impact	OpenRank 貢献度	Use for the metric representing substantive contribution within collaboration networks.	needs-review
+活跃开发者	active developer	アクティブ開発者	Developer who performed a defined contribution activity during the measurement period.	needs-review
+活跃仓库	active repository	アクティブリポジトリ	Repository with recorded activity during the measurement period.	needs-review
 生态引力	ecosystem gravity	エコシステムを引きつける力	Avoid literal 生態引力; explain as the ability of a project to attract global developers and organizations.	Confirmed
 Gitee	Gitee	Gitee	Chinese code hosting platform associated with OSCHINA.	Confirmed
 AtomGit	AtomGit	AtomGit	Chinese code hosting platform; keep official name.	Confirmed
@@ -107,3 +118,57 @@ Utility 型	utility-oriented model	Utility 型	Use for business models selling s
 アップストリーム・モーメント	upstream moment	アップストリーム・モーメント	Use for moments when license/governance changes push users toward neutral upstream/foundation projects.	Confirmed
 ベンダーロックイン	vendor lock-in	ベンダーロックイン		Confirmed
 制度面での安心感	institutional assurance	制度面での安心感	Use for trust created by stable licenses, transparent governance, and neutral stewardship.	Confirmed
+人形机器人	humanoid robot	ヒューマノイドロボット	Use also for 人型机器人.	Confirmed
+人型机器人	humanoid robot	ヒューマノイドロボット	Use also for 人形机器人.	Confirmed
+量产	mass production	量産	Use in manufacturing and robotics production contexts.	Confirmed
+落地	implementation / deployment	実用化 / 現場導入 / 本番利用	Choose based on context; avoid literal 落地.	confirmed
+身体性	embodiment	身体性	Use for physical embodiment in robotics or embodied AI contexts.	Confirmed
+模仿学习	imitation learning	模倣学習	Robotics and AI learning term.	Confirmed
+强化学习	reinforcement learning	強化学習	Robotics and AI learning term.	Confirmed
+数据采集	data collection	データ収集	Use for robotics data collection and dataset-building contexts.	Confirmed
+RGB-D	RGB-D	RGB-D	Use for paired color and depth image data.	needs-review
+点云数据	point cloud data	点群データ	Use for 3D spatial point data.	needs-review
+遥操	teleoperation	遠隔操作	Use for human-operated robot control and data collection.	needs-review
+第一视角	ego-centric / first-person view	一人称視点	Use for first-person or wearable-camera data collection.	needs-review
+人手-物交互	human-object interaction	人手・物体インタラクション	Use in robotics datasets; HOI may be added on first appearance.	needs-review
+机器人操作系统	robot operating system	ロボット操作システム	Use for robot OS / robotics operating system contexts; ロボットOS is acceptable in compact tables.	needs-review
+中间件	middleware	ミドルウェア	Use for robotics middleware and system integration layers.	needs-review
+运动控制	motion control	運動制御	Use for robotics motion-control systems and frameworks.	needs-review
+全身控制	whole-body control	全身制御	Use WBC on first appearance when useful.	needs-review
+数字孪生	digital twin	デジタルツイン	Use for simulation environments mirroring real-world assets or systems.	needs-review
+边缘计算	edge computing	エッジコンピューティング	Use for computing near the device or robot side.	needs-review
+端侧	on-device / edge-side	端側	Use for robot-side or device-side deployment contexts.	needs-review
+零拷贝	zero-copy	ゼロコピー	Use for middleware or systems avoiding memory copies in data transfer.	needs-review
+硬件本体	hardware body / robot body	ハードウェア本体	Use for physical robot body/hardware platform in embodied AI chapters.	needs-review
+公版机	reference model / reference machine	共通リファレンス機	Use for shared reference hardware designs such as humanoid public/reference machines.	needs-review
+开源硬件	open-source hardware	オープンソースハードウェア	Use for hardware designs, components, and related code released as open source.	needs-review
+人才培养	talent development / training	人材育成	Use for education and workforce development contexts.	needs-review
+系统思维	systems thinking	システム思考	Use for engineering education and systems-level robotics thinking.	needs-review
+工程落地	engineering implementation	エンジニアリング実用化	Use for practical engineering implementation; avoid literal 落地.	needs-review
+端云协同	device-cloud collaboration	端末とクラウドの協調	Use for architectures combining edge/device and cloud resources.	needs-review
+力觉	force sensing	力覚	Use for contact/force feedback in robotics.	needs-review
+滑移	slip	滑り	Use for tactile/contact sensing contexts.	needs-review
+跨本体迁移	cross-embodiment transfer	機体をまたいだ移行	Use for transferring algorithms/data/capabilities across robot bodies.	needs-review
+机器人基础模型	robot foundation model	ロボット基盤モデル	Use when the source discusses foundation models for robot behavior, control, perception, planning, or embodied robotic tasks. If the context is broader robotics research, consider ロボティクス向け基盤モデル.	needs-review
+具身基础模型	embodied foundation model	フィジカルAI基盤モデル	Use when the model is a foundation model for embodied AI tasks, not only robots narrowly.	needs-review
+世界模型	world model	世界モデル	Use for robotics, embodied AI, simulation, and interactive world modeling contexts.	Confirmed
+可交互世界建模	interactive world modeling	相互作用可能な世界モデリング	Use for models that generate explorable, interactive, temporally consistent virtual worlds.	needs-review
+视觉-语言-动作模型	vision-language-action model	視覚・言語・動作（VLA）モデル	Use for models that map visual input and language instructions to robot actions.	needs-review
+VLA	vision-language-action	VLA（Vision-Language-Action、視覚・言語・行動を結びつけるモデル）	Use on first appearance when an explanation is helpful; plain VLA afterward.	needs-review
+视觉语言模型	vision-language model	視覚言語モデル（VLM）	Use VLM when the English abbreviation is clearer in model architecture discussions.	needs-review
+VLM	vision-language model	VLM（Vision-Language Model、視覚言語モデル）	Use on first appearance when an explanation is helpful; plain VLM afterward.	needs-review
+端到端	end-to-end	エンドツーエンド	Use for models or systems trained or operated as a single pipeline.	needs-review
+末端执行器	end effector	エンドエフェクタ	Robot arm tip or gripper-like component.	needs-review
+消融实验	ablation experiment	アブレーション実験	Experiment that removes components or factors to compare their effect.	needs-review
+后训练	post-training	ポストトレーニング	Use for additional training after pretraining; 後段の訓練 is acceptable when more natural.	needs-review
+真机评测	real-robot evaluation	実機評価	Use for evaluation on physical robots rather than simulation.	needs-review
+仿真评测	simulation evaluation	シミュレーション評価	Use for evaluation in simulated environments.	needs-review
+零样本	zero-shot	ゼロショット	Use for tasks performed without task-specific examples or fine-tuning.	needs-review
+视觉语言导航	vision-language navigation	視覚言語ナビゲーション	Use for navigation tasks driven by visual input and language instructions.	needs-review
+部分成功率	partial success rate	部分成功率	Metric for partial completion in multi-step tasks.	needs-review
+动作预测误差	action prediction error	動作予測誤差	Metric for imitation accuracy on new trajectories.	needs-review
+Sim2Real	Sim2Real	Sim2Real	Technique or setting for transferring simulation-trained capabilities to real robots.	needs-review
+Real2Real	Real2Real	Real2Real	Technique or setting for transferring data or capabilities across real robot environments.	needs-review
+灾难性遗忘	catastrophic forgetting	破滅的忘却	New learning causes existing capabilities or knowledge to degrade.	needs-review
+模态解耦	modality decoupling	モダリティ分離	Problem where visual, language, action, or other modality representations fail to connect well.	needs-review
+自回归扩散模型	autoregressive diffusion model	自己回帰拡散モデル	Use for diffusion models that generate sequentially while referencing previous frames or states.	needs-review

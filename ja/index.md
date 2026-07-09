@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "2025 中国オープンソース年次報告書"
+  name: "2025 中国オープンソース年度報告"
   text: ""
-  tagline: "日本語版は現在準備中です。"
+  tagline: "中国のオープンソース・エコシステムの現在地を、データと各分野の動向から読み解く年次報告書"
   actions:
     - theme: brand
       text: 日本語版を読む
