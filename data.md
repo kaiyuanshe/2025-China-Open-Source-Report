@@ -127,7 +127,7 @@ OpenDigger 是一个致力于推动全球开源生态透明化与可度量化的
 
 #### 2.1.2 核心发现：规模跃升、格局重塑
 
-#### 2.1.3 全球活跃开发者规模突破新高
+**全球活跃开发者规模突破新高**
 
 截至 **2025 年年底**，根据 GitHub Octoverse Report 数据显示，全球开发者总量已突破 **1.8 亿**（其中新增开发者超过 **3,600 万**）。其中，近十年在 GitHub 平台的活跃开发者（Active Developer）累计达到 **2,493 万**；国内 Gitee / AtomGit / GitCode 等平台的活跃开发者规模接近 **1,000 万**；GitLab 平台的活跃开发者规模接近 **80 万**。
 
@@ -178,7 +178,7 @@ OpenDigger 是一个致力于推动全球开源生态透明化与可度量化的
   </table>
 </div>
 
-#### 2.1.4 中国稳居全球开源第一梯队
+#### 2.1.3 中国稳居全球开源第一梯队
 
 如表 2.1 所示，截至 2025 年底，GitHub 平台 **中国**的活跃开发者超 **210 万**，规模稳居 **全球第三**，已成为全球开源生态的关键力量；如果加上国内 Gitee / AtomGit / GitCode 等平台，整体数量预计超过 **350 万**（根据问卷篇调研数据去重），位居 **全球第二**。与此同时，**美国与印度**分别位列前两位，开发者规模优势明显，持续引领全球开源创新与社区贡献格局。**德国、英国、加拿大**等欧洲及北美国家亦保持较高活跃度，整体呈现出以北美为核心、亚洲快速崛起、欧洲稳健发展的多极化分布特征。
 
@@ -644,9 +644,9 @@ OpenDigger 是一个致力于推动全球开源生态透明化与可度量化的
     <tbody>
     <tr><td style="text-align: center;">1</td><td style="text-align: center;">加利福尼亚州</td><td style="text-align: center;">5,574.8</td><td style="text-align: center;">593.96</td><td style="text-align: center;">美国</td></tr>
     <tr><td style="text-align: center;">2</td><td style="text-align: center;">英格兰</td><td style="text-align: center;">4,348.45</td><td style="text-align: center;">410.29</td><td style="text-align: center;">英国</td></tr>
-    <tr><td style="text-align: center;">3</td><td style="text-align: center;">纽约州</td><td style="text-align: center;">25,213.87</td><td style="text-align: center;">275.68</td><td style="text-align: center;">美国</td></tr>
+    <tr><td style="text-align: center;">3</td><td style="text-align: center;">纽约州</td><td style="text-align: center;">2,521.37</td><td style="text-align: center;">275.68</td><td style="text-align: center;">美国</td></tr>
     <tr><td style="text-align: center;">4</td><td style="text-align: center;">华盛顿州</td><td style="text-align: center;">2,037.95</td><td style="text-align: center;">185.97</td><td style="text-align: center;">美国</td></tr>
-    <tr><td style="text-align: center;">5</td><td style="text-align: center;">圣保罗</td><td style="text-align: center;">19,894.35</td><td style="text-align: center;">229.73</td><td style="text-align: center;">巴西</td></tr>
+    <tr><td style="text-align: center;">5</td><td style="text-align: center;">圣保罗</td><td style="text-align: center;">1,989.35</td><td style="text-align: center;">229.73</td><td style="text-align: center;">巴西</td></tr>
     <tr><td style="text-align: center;">6</td><td style="text-align: center;">安大略省</td><td style="text-align: center;">1,844.54</td><td style="text-align: center;">162.63</td><td style="text-align: center;">加拿大</td></tr>
     <tr><td style="text-align: center;">7</td><td style="text-align: center;">柏林市</td><td style="text-align: center;">1,628.85</td><td style="text-align: center;">115.85</td><td style="text-align: center;">德国</td></tr>
     <tr><td style="text-align: center;">8</td><td style="text-align: center;">得克萨斯州</td><td style="text-align: center;">1,610.33</td><td style="text-align: center;">206.56</td><td style="text-align: center;">美国</td></tr>
@@ -661,7 +661,7 @@ OpenDigger 是一个致力于推动全球开源生态透明化与可度量化的
   </table>
 </div>
 
-紧随其后的是**英格兰**（4,348.95），反映出英国在人工智能、金融科技与软件工程领域的持续投入。尽管伦敦以外地区尚未形成同等规模的集群效应，但牛津、剑桥等高校驱动的开源社区正在崛起。
+紧随其后的是**英格兰**（4,348.45），反映出英国在人工智能、金融科技与软件工程领域的持续投入。尽管伦敦以外地区尚未形成同等规模的集群效应，但牛津、剑桥等高校驱动的开源社区正在崛起。
 
 **纽约州**（2,521.37）位列第三，其影响力主要来自曼哈顿的金融科技创新与长岛的科研机构。值得注意的是，**华盛顿州**（2,037.95）虽未进入前三，但其在云计算（Azure、AWS）、AI 工具链（GitHub）方面的贡献使其成为美国西部的另一极。
 
@@ -727,14 +727,14 @@ OpenDigger 是一个致力于推动全球开源生态透明化与可度量化的
     <tr><th style="text-align: center;">#</th><th style="text-align: center;">行政区划</th><th style="text-align: center;">OpenRank</th><th style="text-align: center;">开发者数量(万)</th></tr>
     </thead>
     <tbody>
-    <tr><td style="text-align: center;">1</td><td style="text-align: center;">北京市</td><td style="text-align: center;">1,248.72</td><td style="text-align: center;">332.19</td></tr>
-    <tr><td style="text-align: center;">2</td><td style="text-align: center;">上海市</td><td style="text-align: center;">1,060.37</td><td style="text-align: center;">244.05</td></tr>
-    <tr><td style="text-align: center;">3</td><td style="text-align: center;">广东省</td><td style="text-align: center;">776.99</td><td style="text-align: center;">215.43</td></tr>
-    <tr><td style="text-align: center;">4</td><td style="text-align: center;">台湾省</td><td style="text-align: center;">720.46</td><td style="text-align: center;">137.85</td></tr>
-    <tr><td style="text-align: center;">5</td><td style="text-align: center;">浙江省</td><td style="text-align: center;">604.81</td><td style="text-align: center;">130.53</td></tr>
-    <tr><td style="text-align: center;">6</td><td style="text-align: center;">江苏省</td><td style="text-align: center;">288.68</td><td style="text-align: center;">81.51</td></tr>
-    <tr><td style="text-align: center;">7</td><td style="text-align: center;">四川省</td><td style="text-align: center;">279.84</td><td style="text-align: center;">70.03</td></tr>
-    <tr><td style="text-align: center;">8</td><td style="text-align: center;">湖北省</td><td style="text-align: center;">183.93</td><td style="text-align: center;">49.25</td></tr>
+    <tr><td style="text-align: center;">1</td><td style="text-align: center;">北京市</td><td style="text-align: center;">12,487.72</td><td style="text-align: center;">332.19</td></tr>
+    <tr><td style="text-align: center;">2</td><td style="text-align: center;">上海市</td><td style="text-align: center;">10,601.37</td><td style="text-align: center;">244.05</td></tr>
+    <tr><td style="text-align: center;">3</td><td style="text-align: center;">广东省</td><td style="text-align: center;">7,768.99</td><td style="text-align: center;">215.43</td></tr>
+    <tr><td style="text-align: center;">4</td><td style="text-align: center;">台湾省</td><td style="text-align: center;">7,200.46</td><td style="text-align: center;">137.85</td></tr>
+    <tr><td style="text-align: center;">5</td><td style="text-align: center;">浙江省</td><td style="text-align: center;">6,045.81</td><td style="text-align: center;">130.53</td></tr>
+    <tr><td style="text-align: center;">6</td><td style="text-align: center;">江苏省</td><td style="text-align: center;">2,886.68</td><td style="text-align: center;">81.51</td></tr>
+    <tr><td style="text-align: center;">7</td><td style="text-align: center;">四川省</td><td style="text-align: center;">2,795.84</td><td style="text-align: center;">70.03</td></tr>
+    <tr><td style="text-align: center;">8</td><td style="text-align: center;">湖北省</td><td style="text-align: center;">1,839.26</td><td style="text-align: center;">49.25</td></tr>
     <tr><td style="text-align: center;">9</td><td style="text-align: center;">陕西省</td><td style="text-align: center;">1,153.73</td><td style="text-align: center;">33.14</td></tr>
     <tr><td style="text-align: center;">10</td><td style="text-align: center;">福建省</td><td style="text-align: center;">934.61</td><td style="text-align: center;">24.34</td></tr>
     <tr><td style="text-align: center;">11</td><td style="text-align: center;">山东省</td><td style="text-align: center;">826.96</td><td style="text-align: center;">23.2</td></tr>
@@ -746,25 +746,25 @@ OpenDigger 是一个致力于推动全球开源生态透明化与可度量化的
   </table>
 </div>
 
-**北京市**以 1,248.72 的 OpenRank 值高居榜首，开发者数量达 332.19 万人，是全国唯一的“超大型开源枢纽”。其优势集中体现在：
+**北京市**以 12,487.72 的 OpenRank 值高居榜首，开发者数量达 332.19 万人，是全国唯一的“超大型开源枢纽”。其优势集中体现在：
 
 - 头部企业密集：华为、百度、小米、字节跳动等科技巨头总部设于北京；
 - 高校科研强：清华、北大、北航、中科院等机构持续输出原创性研究成果；
 - 政策支持有力：海淀、昌平等地设立多个开源产业园与创新基金。
 
-**上海市**以 1,060.37 的 OpenRank 居第二，开发者数量 244.05 万人，仅次于北京。其特点在于：
+**上海市**以 10,601.37 的 OpenRank 居第二，开发者数量 244.05 万人，仅次于北京。其特点在于：
 
 - 国际化程度高：外资企业与跨国公司云集，推动开源标准对接；
 - 金融与人工智能融合：在 AI 金融、智能投顾、区块链等领域形成特色生态；
 - 长三角协同效应显著：与杭州、苏州、南京等地形成“研发-应用-服务”闭环。
 
-**广东省**以 776.99 的 OpenRank 位列第三，开发者数量 215.43 万人，是全国唯一一个省级单位进入 Top3 的省份。其影响力主要由 深圳市（4,440.85 OpenRank）驱动，作为中国最具活力的科技创新城市，深圳在硬件开源（如 RISC-V、物联网）、AI 芯片、机器人等领域持续突破。
+**广东省**以 7,768.99 的 OpenRank 位列第三，开发者数量 215.43 万人，是全国唯一一个省级单位进入 Top3 的省份。其影响力主要由 深圳市（4,440.85 OpenRank）驱动，作为中国最具活力的科技创新城市，深圳在硬件开源（如 RISC-V、物联网）、AI 芯片、机器人等领域持续突破。
 
 **台湾省**以 7,200.46 的 OpenRank 位居第四，开发者数量 137.85 万人，显示出其在半导体设计、嵌入式系统与软件工具链方面的深厚积累。台北市作为核心节点，拥有大量从事芯片验证、EDA 工具开发的工程师团队。
 
-**浙江省**（604.81）与**江苏省**（288.68）分列第五与第六，分别以杭州、苏州为核心，形成“数字经济”与“智能制造”双轮驱动的开源格局。杭州依托阿里巴巴、蚂蚁集团等企业，在云计算、数据库、AI 大模型方向持续发力；苏州则聚焦于工业互联网、智能制造与边缘计算。
+**浙江省**（6,045.81）与**江苏省**（2,886.68）分列第五与第六，分别以杭州、苏州为核心，形成“数字经济”与“智能制造”双轮驱动的开源格局。杭州依托阿里巴巴、蚂蚁集团等企业，在云计算、数据库、AI 大模型方向持续发力；苏州则聚焦于工业互联网、智能制造与边缘计算。
 
-此外，**四川省**（279.84）、**湖北省**（183.93）、**陕西省**（1,153.73）等中西部省份也展现出强劲增长势头。成都、武汉、西安凭借高校资源与产业政策，逐步形成“高校-企业-社区”联动的开源生态，成为未来潜在的增长极。
+此外，**四川省**（2,795.84）、**湖北省**（1,839.26）、**陕西省**（1,153.73）等中西部省份也展现出强劲增长势头。成都、武汉、西安凭借高校资源与产业政策，逐步形成“高校-企业-社区”联动的开源生态，成为未来潜在的增长极。
 
 #### 3.1.4 城市级深度洞察：谁是真正的“开源引擎”？
 
@@ -775,24 +775,24 @@ OpenDigger 是一个致力于推动全球开源生态透明化与可度量化的
 <div style="display: flex; justify-content: center; width: 100%; overflow-x: auto;">
   <table style="display: table; margin: 0 auto; text-align: center;">
     <thead>
-    <tr><th style="text-align: center;">地级市</th><th style="text-align: center;">所属省份</th><th style="text-align: center;">开发者数量(万)</th><th style="text-align: center;">OpenRank 总和</th><th style="text-align: center;">人均 OpenRank（万人）</th><th style="text-align: center;">上榜代表企业</th></tr>
+    <tr><th style="text-align: center;">地级市</th><th style="text-align: center;">所属省份</th><th style="text-align: center;">OpenRank 总和</th><th style="text-align: center;">开发者数量(万)</th><th style="text-align: center;">人均 OpenRank（万人）</th><th style="text-align: center;">上榜代表企业</th></tr>
     </thead>
     <tbody>
-    <tr><td style="text-align: center;">北京市</td><td style="text-align: center;">直辖市</td><td style="text-align: center;">332.19</td><td style="text-align: center;">11,961.74</td><td style="text-align: center;">36.00872994</td><td style="text-align: center;">ByteDance、Baidu</td></tr>
-    <tr><td style="text-align: center;">上海市</td><td style="text-align: center;">直辖市</td><td style="text-align: center;">244.05</td><td style="text-align: center;">10,184.38</td><td style="text-align: center;">41.73071092</td><td style="text-align: center;">ESPRESSIF、DaoCloud</td></tr>
-    <tr><td style="text-align: center;">杭州市</td><td style="text-align: center;">浙江省</td><td style="text-align: center;">78.66</td><td style="text-align: center;">5,539.76</td><td style="text-align: center;">70.42664633</td><td style="text-align: center;">Alibaba、Ant Group</td></tr>
-    <tr><td style="text-align: center;">深圳市</td><td style="text-align: center;">广东省</td><td style="text-align: center;">78.02</td><td style="text-align: center;">4,440.85</td><td style="text-align: center;">56.91937965</td><td style="text-align: center;">Huawei、Tencent</td></tr>
-    <tr><td style="text-align: center;">台北市</td><td style="text-align: center;">台湾省</td><td style="text-align: center;">31.71</td><td style="text-align: center;">2,726</td><td style="text-align: center;">85.96657206</td><td style="text-align: center;">-</td></tr>
-    <tr><td style="text-align: center;">成都市</td><td style="text-align: center;">四川省</td><td style="text-align: center;">43.22</td><td style="text-align: center;">2,541.42</td><td style="text-align: center;">58.80194354</td><td style="text-align: center;">-</td></tr>
-    <tr><td style="text-align: center;">广州市</td><td style="text-align: center;">广东省</td><td style="text-align: center;">50.27</td><td style="text-align: center;">2,408.81</td><td style="text-align: center;">47.91744579</td><td style="text-align: center;">DCloud、Vipshop</td></tr>
-    <tr><td style="text-align: center;">武汉市</td><td style="text-align: center;">湖北省</td><td style="text-align: center;">30.46</td><td style="text-align: center;">1,693.07</td><td style="text-align: center;">55.58338805</td><td style="text-align: center;">Deepin、Douyu</td></tr>
-    <tr><td style="text-align: center;">南京市</td><td style="text-align: center;">江苏省</td><td style="text-align: center;">32.32</td><td style="text-align: center;">1,607.67</td><td style="text-align: center;">49.74226485</td><td style="text-align: center;">-</td></tr>
-    <tr><td style="text-align: center;">西安市</td><td style="text-align: center;">陕西省</td><td style="text-align: center;">20.88</td><td style="text-align: center;">1,061.61</td><td style="text-align: center;">50.8433908</td><td style="text-align: center;">-</td></tr>
-    <tr><td style="text-align: center;">苏州市</td><td style="text-align: center;">江苏省</td><td style="text-align: center;">12.6</td><td style="text-align: center;">754.69</td><td style="text-align: center;">59.89603175</td><td style="text-align: center;">-</td></tr>
-    <tr><td style="text-align: center;">长沙市</td><td style="text-align: center;">湖南省</td><td style="text-align: center;">10.75</td><td style="text-align: center;">590.25</td><td style="text-align: center;">54.90697674</td><td style="text-align: center;">-</td></tr>
-    <tr><td style="text-align: center;">重庆市</td><td style="text-align: center;">重庆市</td><td style="text-align: center;">9.87</td><td style="text-align: center;">567.11</td><td style="text-align: center;">57.45795339</td><td style="text-align: center;">-</td></tr>
-    <tr><td style="text-align: center;">合肥市</td><td style="text-align: center;">安徽省</td><td style="text-align: center;">9.91</td><td style="text-align: center;">554.26</td><td style="text-align: center;">55.92936428</td><td style="text-align: center;">iFLYTEK</td></tr>
-    <tr><td style="text-align: center;">厦门市</td><td style="text-align: center;">福建省</td><td style="text-align: center;">9.19</td><td style="text-align: center;">527.67</td><td style="text-align: center;">57.41784548</td><td style="text-align: center;">-</td></tr>
+    <tr><td style="text-align: center;">北京市</td><td style="text-align: center;">直辖市</td><td style="text-align: center;">11,961.74</td><td style="text-align: center;">332.19</td><td style="text-align: center;">36.00872994</td><td style="text-align: center;">ByteDance、Baidu</td></tr>
+    <tr><td style="text-align: center;">上海市</td><td style="text-align: center;">直辖市</td><td style="text-align: center;">10,184.38</td><td style="text-align: center;">244.05</td><td style="text-align: center;">41.73071092</td><td style="text-align: center;">ESPRESSIF、DaoCloud</td></tr>
+    <tr><td style="text-align: center;">杭州市</td><td style="text-align: center;">浙江省</td><td style="text-align: center;">5,539.76</td><td style="text-align: center;">78.66</td><td style="text-align: center;">70.42664633</td><td style="text-align: center;">Alibaba、Ant Group</td></tr>
+    <tr><td style="text-align: center;">深圳市</td><td style="text-align: center;">广东省</td><td style="text-align: center;">4,440.85</td><td style="text-align: center;">78.02</td><td style="text-align: center;">56.91937965</td><td style="text-align: center;">Huawei、Tencent</td></tr>
+    <tr><td style="text-align: center;">台北市</td><td style="text-align: center;">台湾省</td><td style="text-align: center;">2,726</td><td style="text-align: center;">31.71</td><td style="text-align: center;">85.96657206</td><td style="text-align: center;">-</td></tr>
+    <tr><td style="text-align: center;">成都市</td><td style="text-align: center;">四川省</td><td style="text-align: center;">2,541.42</td><td style="text-align: center;">43.22</td><td style="text-align: center;">58.80194354</td><td style="text-align: center;">-</td></tr>
+    <tr><td style="text-align: center;">广州市</td><td style="text-align: center;">广东省</td><td style="text-align: center;">2,408.81</td><td style="text-align: center;">50.27</td><td style="text-align: center;">47.91744579</td><td style="text-align: center;">DCloud、Vipshop</td></tr>
+    <tr><td style="text-align: center;">武汉市</td><td style="text-align: center;">湖北省</td><td style="text-align: center;">1,693.07</td><td style="text-align: center;">30.46</td><td style="text-align: center;">55.58338805</td><td style="text-align: center;">Deepin、Douyu</td></tr>
+    <tr><td style="text-align: center;">南京市</td><td style="text-align: center;">江苏省</td><td style="text-align: center;">1,607.67</td><td style="text-align: center;">32.32</td><td style="text-align: center;">49.74226485</td><td style="text-align: center;">-</td></tr>
+    <tr><td style="text-align: center;">西安市</td><td style="text-align: center;">陕西省</td><td style="text-align: center;">1,061.61</td><td style="text-align: center;">20.88</td><td style="text-align: center;">50.8433908</td><td style="text-align: center;">-</td></tr>
+    <tr><td style="text-align: center;">苏州市</td><td style="text-align: center;">江苏省</td><td style="text-align: center;">754.69</td><td style="text-align: center;">12.6</td><td style="text-align: center;">59.89603175</td><td style="text-align: center;">-</td></tr>
+    <tr><td style="text-align: center;">长沙市</td><td style="text-align: center;">湖南省</td><td style="text-align: center;">590.25</td><td style="text-align: center;">10.75</td><td style="text-align: center;">54.90697674</td><td style="text-align: center;">-</td></tr>
+    <tr><td style="text-align: center;">重庆市</td><td style="text-align: center;">重庆市</td><td style="text-align: center;">567.11</td><td style="text-align: center;">9.87</td><td style="text-align: center;">57.45795339</td><td style="text-align: center;">-</td></tr>
+    <tr><td style="text-align: center;">合肥市</td><td style="text-align: center;">安徽省</td><td style="text-align: center;">554.26</td><td style="text-align: center;">9.91</td><td style="text-align: center;">55.92936428</td><td style="text-align: center;">iFLYTEK</td></tr>
+    <tr><td style="text-align: center;">厦门市</td><td style="text-align: center;">福建省</td><td style="text-align: center;">527.67</td><td style="text-align: center;">9.19</td><td style="text-align: center;">57.41784548</td><td style="text-align: center;">-</td></tr>
     </tbody>
   </table>
 </div>
@@ -1030,14 +1030,14 @@ OpenDigger 是一个致力于推动全球开源生态透明化与可度量化的
 
 最后，技术风向标指向 AI 与现代化架构。vLLM 作为大模型推理优化的代表项目，以超过 1 万人的开发者规模高居第 12 位，反映了生成式 AI 爆发背景下，底层推理基础设施成为新的竞争高地。传统的系统级项目如 NixOS（第 3）和 LLVM（第 5）依然坚挺，说明可重复构建、编译器优化等基础软件能力仍是开源世界的基石。而 Rust 语言的入围（第 13），则进一步印证了内存安全与高性能并重的系统编程新范式正在被广泛接纳。
 
-我们统计了全球开源项目排行榜中各个国家入选项目的数量，如下表所示：
+为进一步观察头部开源项目背后的地域分布，我们对全球开源项目影响力 Top 100 中可识别发起组织及其所在国家/地区的项目进行了归类统计。需要说明的是，开源项目往往具有跨国协作、多主体共建的特征，且部分项目在公开信息中未明确标注发起组织或组织所在国家/地区，因此下表并非 Top 100 项目的全量国家归属统计，而是基于可识别信息形成的地域分布观察，合计覆盖 78 个可识别项目。
 
-表 3.8 全球开源项目影响力 Top 100 各国入选数量
+表 3.8 全球开源项目影响力 Top 100 中可识别发起组织项目的国家/地区分布
 
 <div style="display: flex; justify-content: center; width: 100%; overflow-x: auto;">
   <table style="display: table; margin: 0 auto; text-align: center;">
     <thead>
-    <tr><th style="text-align: center;">排名</th><th style="text-align: center;">国家</th><th style="text-align: center;">入选项目数量</th></tr>
+    <tr><th style="text-align: center;">排名</th><th style="text-align: center;">国家/地区</th><th style="text-align: center;">可识别入选项目数量</th></tr>
     </thead>
     <tbody>
     <tr><td style="text-align: center;">1</td><td style="text-align: center;">美国</td><td style="text-align: center;">49</td></tr>
@@ -1045,14 +1045,14 @@ OpenDigger 是一个致力于推动全球开源生态透明化与可度量化的
     <tr><td style="text-align: center;">3</td><td style="text-align: center;">德国</td><td style="text-align: center;">3</td></tr>
     <tr><td style="text-align: center;">3</td><td style="text-align: center;">荷兰</td><td style="text-align: center;">3</td></tr>
     <tr><td style="text-align: center;">5</td><td style="text-align: center;">俄罗斯</td><td style="text-align: center;">2</td></tr>
-    <tr><td style="text-align: center;">6</td><td style="text-align: center;">英国、以色列、 法国、冰岛、加拿大、南非、 挪威、瑞士、保加利亚</td><td style="text-align: center;">1</td></tr>
+    <tr><td style="text-align: center;">6</td><td style="text-align: center;">英国、以色列、法国、冰岛、加拿大、南非、挪威、瑞士、保加利亚</td><td style="text-align: center;">1</td></tr>
     </tbody>
   </table>
 </div>
 
-美国在顶级开源项目中占据绝对主导地位，中国紧随其后，是唯一进入榜单的亚洲国家。
+从可识别发起组织及其所在国家/地区的项目来看，美国仍然是头部开源项目最主要的来源地，中国位居第二，显示出中美两国在全球开源生态中的突出影响力。
 
-Top 15 中，美国项目数量最多，涵盖操作系统、开发框架、云原生等关键领域；中国凭借 OpenHarmony、openEuler、MindSpore 等自主生态项目强势上榜，体现出在基础软件和 AI 领域的开源战略布局成效显著。欧洲国家（如荷兰、德国）也有代表性项目入围，但整体影响力仍以中美为主导。
+在 Top 100 中的可识别项目范围内，美国项目数量最多，覆盖操作系统、开发框架、云基础设施、开发工具等关键领域，体现出其长期积累的开源生态优势。中国凭借 OpenHarmony、openEuler、MindSpore 等项目形成较强存在感，尤其在基础软件、智能终端操作系统和 AI 框架方向表现突出，说明中国开源生态正在从应用层参与走向基础技术体系建设。德国、荷兰、俄罗斯等国家也有多个项目进入可识别统计范围，英国、以色列、法国、冰岛、加拿大、南非、挪威、瑞士、保加利亚等国家各有代表性项目入选，反映出全球开源生态仍具有广泛的地域多样性。总体来看，在可识别项目范围内，中美项目数量领先，但其他国家和地区也在特定技术方向上保持活跃贡献。
 
 #### 3.3.2 中国开源项目影响力 Top 15：操作系统双核驱动，AI 与大模型生态全面爆发
 
