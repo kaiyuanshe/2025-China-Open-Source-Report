@@ -25,6 +25,7 @@
   - [开源人工智能篇](./ossAI.md)
   - [开源具身智能篇](./embodied-intelligence.md)
   - [Web3.0 篇](./web3.md)
+    - 其中 Web3.0 篇由 OpenBuild 与 Web3insight.ai 承担分析与撰写工作。
   - [开源大事记](./open-source-milestones.md)
 
 - 日本語版
@@ -40,7 +41,18 @@
   - [中国オープンソース関連文書の日本語訳](https://github.com/kaiyuanshe/CNOSSTranslationJP)
   - [Nico-Tech Shenzhen / TAKASU Masakazu](https://takasumasakazu.net/)
 
-其中 Web3.0 篇由 OpenBuild 与 Web3insight.ai 承担分析与撰写工作。
+- English Version
+  - [Preface](./en/preface.md)
+  - [OSS Questionnaire](./en/questionnaire.md)
+  - [OSS Data Analytics](./en/data.md)
+  - [OSS Commercialization](./en/commercialization.md)
+  - [OSS AI](./en/ossAI.md)
+  - [OpenSource Embodied Intelligence](./en/embodied-intelligence.md)
+  - [Web3.0](./en/web3.md)
+    - The Web 3.0 section was analyzed and written by OpenBuild and Web3insight.ai.
+  - [OSS Chronicle](./en/open-source-milestones.md)
+
+
 
 
 ## 许可证
